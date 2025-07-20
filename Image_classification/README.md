@@ -24,5 +24,3 @@ This project is focused on exploring and preparing images for emotion classifica
 - Preprocess images for training.
 - Build and train a convolutional neural network for emotion classification.
 
-## License
-This project is licensed under the MIT License.
